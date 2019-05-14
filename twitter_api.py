@@ -4,10 +4,10 @@ from tweepy.streaming import StreamListener
 import json
 import sentiment_mod as s 
 
-ckey = 'fA47Fh4oSTqnmNCu9dOfUfvDz'
-csecret = 'arT9riow2f9L5B75hDWgJu6L3yUgIYgvPsAHTYPDDS6acOlO2X'
-atoken = '826132336253272065-h1yoksZNOBxYsGeN85hDYmzZpg0C22D'
-asecret = 'NPmDcW4axL6kTGBFrypVQVHGlTZiceiVgNJvMZtYVEbcG'
+ckey = ''
+csecret = ''
+atoken = ''
+asecret = ''
 
 
 class listener(StreamListener):
