@@ -1,6 +1,6 @@
 # Twitter sentiment analysis
 
-This is sentiment analysis of twitter data using python.
+This is sentiment analysis of twitter-data using python.
 
 ## Liabraries used:
 
